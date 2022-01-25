@@ -361,3 +361,12 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Assets/Course Library/Fonts
+/Assets/Matrials
+/Assets/TextMesh Pro
+/Temp
+/UserSettings
+/Assets/Course Library/Materials
+/build
+/game.apk
+/Library
